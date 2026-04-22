@@ -30,6 +30,3 @@ An RPG inspired by 8-bit classics made in RPG Maker MZ, using Javascript.
 - Chequered Ink for the font
 - Tea Bee for coding help
 - Bis for RPG Maker MZ - Pixelated Animations Pack Vol.1
-
-
-Disclaimer: This game is not for profit.
