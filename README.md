@@ -9,6 +9,7 @@ An RPG inspired by 8-bit classics made in RPG Maker MZ, using Javascript.
 
 ## Screenshots
 ![Screenshot](https://raw.githubusercontent.com/Majihime/Goblet-s-Quest/refs/heads/main/gq8.png)
+
 ![Screenshot](https://raw.githubusercontent.com/Majihime/Goblet-s-Quest/refs/heads/main/gq5.png)
 
 ---
