@@ -17,7 +17,6 @@ An RPG inspired by 8-bit classics made in RPG Maker MZ, using Javascript.
 - Arrows/WASD for movement. Z/Enter for confirm. X/ESC for cancel.
 - Extended controls & Gamepad controls: https://rpgmakerofficial.com/product/MZ_help-en/01_06.html
             
-- To play directly in your browser: https://wingsofathena.itch.io/the-castle-of-frankenstein
 - To download, visit releases
 
 ---
