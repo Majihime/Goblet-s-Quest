@@ -2,7 +2,7 @@
 
 ## About the Game
 An RPG inspired by 8-bit classics made in RPG Maker MZ, using Javascript.
-- A 30 mintue RPG adventure where you play as the monsters of an old-school classic.
+- A 30 minute RPG adventure where you play as the monsters of an old-school classic.
 - NES-styled pixel art and soundtrack.
 - Turn-based combat with three unique party members.
 ---
